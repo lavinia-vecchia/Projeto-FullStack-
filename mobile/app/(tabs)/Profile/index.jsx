@@ -318,9 +318,9 @@ const styles = StyleSheet.create({
     fontSize: 16,
     fontWeight: 'bold',
   },
-  boxProfile: {
+ boxProfile: {
     backgroundColor: '#DE6BFA',
     marginHorizontal: 80,
     borderRadius: 10,
+    opacity:1
   },
-});
